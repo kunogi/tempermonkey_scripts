@@ -8,6 +8,8 @@
 // @grant        none
 // @run-at       document-start
 // @license      MIT
+// @downloadURL https://update.greasyfork.org/scripts/564800/YouTube%E8%A7%86%E9%A2%91%E5%A2%9E%E5%BC%BA%EF%BC%9A%E5%B1%8F%E8%94%BD%E5%8E%9F%E7%94%9F%E5%BF%AB%E8%BF%9B%EF%BC%8C%E9%95%BF%E6%8C%893%E5%80%8D%E9%80%9F.user.js
+// @updateURL https://update.greasyfork.org/scripts/564800/YouTube%E8%A7%86%E9%A2%91%E5%A2%9E%E5%BC%BA%EF%BC%9A%E5%B1%8F%E8%94%BD%E5%8E%9F%E7%94%9F%E5%BF%AB%E8%BF%9B%EF%BC%8C%E9%95%BF%E6%8C%893%E5%80%8D%E9%80%9F.meta.js
 // ==/UserScript==
 
 (function () {
