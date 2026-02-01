@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube视频增强：屏蔽原生快进，长按3倍速
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/kunogi
 // @version      1.4
 // @description  拦截YouTube原生快进，实现长按3倍速，松开即恢复
 // @author       Kunogi
