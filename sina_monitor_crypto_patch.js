@@ -8,6 +8,8 @@
 // @grant        none
 // @run-at       document-start
 // @license      MIT
+// @downloadURL  https://update.greasyfork.org/scripts/564801/Sina%20Finance%20BTC%20Patch%20%20Ultimate%20Blocker%20%28Stable%29.user.js
+// @updateURL    https://update.greasyfork.org/scripts/564801/Sina%20Finance%20BTC%20Patch%20%20Ultimate%20Blocker%20%28Stable%29.meta.js
 // ==/UserScript==
 
 (function () {
