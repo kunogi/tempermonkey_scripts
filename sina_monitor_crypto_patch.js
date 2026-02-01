@@ -7,6 +7,7 @@
 // @match        https://finance.sina.com.cn/temp/m/html/index.html*
 // @grant        none
 // @run-at       document-start
+// @license      MIT
 // ==/UserScript==
 
 (function () {
