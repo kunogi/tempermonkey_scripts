@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.7
 // @description  Comprehensive blocker for Sentry, SUDA, DMP, Grafana and internal errors.
-// @author       Xuan
+// @author       9x0
 // @match        https://finance.sina.com.cn/temp/m/html/index.html*
 // @grant        none
 // @run-at       document-start
