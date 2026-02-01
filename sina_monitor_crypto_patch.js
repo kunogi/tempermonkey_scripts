@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Sina Finance BTC Patch & Ultimate Blocker (Stable)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/kunogi
 // @version      1.7
 // @description  Comprehensive blocker for Sentry, SUDA, DMP, Grafana and internal errors.
-// @author       9x0
+// @author       Kunogi
 // @match        https://finance.sina.com.cn/temp/m/html/index.html*
 // @grant        none
 // @run-at       document-start
